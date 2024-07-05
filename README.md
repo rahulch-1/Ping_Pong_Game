@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Game Modes](#how-to-play)
+- [Game_Modes](#game_modes)
 
 
 ## Introduction
